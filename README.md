@@ -7,8 +7,6 @@ Welcome to my GitHub profile! I specialize in building modern, fast, and scalabl
 ---
 
 ## 🛠️ Tech Stack & Technologies
-
-### ⚡ Fullstack & Next.js Mastery
 <p align="left">
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
@@ -19,14 +17,12 @@ Welcome to my GitHub profile! I specialize in building modern, fast, and scalabl
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
 </p>
 
-### 🤖 AI & LLM Integration
 <p align="left">
   <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
 </p>
 
-### 🖥️ Backend & Databases
 <p align="left">
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
@@ -42,10 +38,10 @@ Welcome to my GitHub profile! I specialize in building modern, fast, and scalabl
 ## 📫 Connect & Collaborate
 
 <p align="left">
-  <a href="https://linkedin.com" target="_blank">
+  <a href="https://www.linkedin.com/in/adrian-wira" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:your.email@domain.com">
+  <a href="nadoyyelek@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
