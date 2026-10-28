@@ -8,16 +8,16 @@ Software Engineer yang berfokus dalam mengembangkan dan membangun berbagai jenis
 
 ---
 
-## 🚀 Repositori Unggulan
+## Repositori Unggulan
 
-### 🎯 [yanrevenge](https://github.com/adrianwira/yanrevenge)
+### [yanrevenge](https://github.com/adrianwira/yanrevenge)
 Repositori ini difokuskan pada **Keamanan Siber** — berisi pengujian *tools exploit*, simulasi *vulnerability*, dan analisis CVE terbaru yang dipraktikkan langsung melalui **lab lokal**.
 
 ---
 
-## 🛠️ Teknologi & Alat (Tech Stack)
+## Tech Stack
 
-### 🌐 Web Development
+### Web Development
 <p align="left">
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
@@ -32,7 +32,7 @@ Repositori ini difokuskan pada **Keamanan Siber** — berisi pengujian *tools ex
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
 </p>
 
-### 📱 Mobile App
+### Mobile App
 <p align="left">
   <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React Native" />
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
@@ -40,7 +40,7 @@ Repositori ini difokuskan pada **Keamanan Siber** — berisi pengujian *tools ex
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
 </p>
 
-### 🤖 Artificial Intelligence
+### Artificial Intelligence
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI API" />
@@ -48,7 +48,7 @@ Repositori ini difokuskan pada **Keamanan Siber** — berisi pengujian *tools ex
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
 </p>
 
-### 🛡️ Cyber Security & Ethical Hacking
+### Cyber Security & Ethical Hacking
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Kali_Linux-557C93?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux" />
@@ -58,7 +58,7 @@ Repositori ini difokuskan pada **Keamanan Siber** — berisi pengujian *tools ex
 
 ---
 
-## 📫 Kontak & Kolaborasi
+## Kontak & Kolaborasi
 
 <p align="left">
   <a href="https://www.linkedin.com/in/adrian-wira" target="_blank">
@@ -71,6 +71,6 @@ Repositori ini difokuskan pada **Keamanan Siber** — berisi pengujian *tools ex
 
 ---
 
-### Terima kasih sudah mampir! 🚀
+### Terima kasih sudah mampir!
 
 *Jangan ragu untuk menjelajahi repositori saya atau menghubungi jika ingin berkolaborasi.*
