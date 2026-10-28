@@ -87,9 +87,6 @@ Repositori ini difokuskan pada **Keamanan Siber** — berisi pengujian *tools ex
     <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Email" width="36" height="36" />
   </a>
 </p>
-
----
-
 ---
 
 ### 💻 System Message
