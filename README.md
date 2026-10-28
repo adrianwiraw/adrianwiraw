@@ -90,20 +90,11 @@ Repositori ini difokuskan pada **Keamanan Siber** — berisi pengujian *tools ex
 
 ---
 
-### Terima kasih sudah mampir!
-*Jangan ragu untuk menjelajahi repositori saya atau menghubungi jika ingin berkolaborasi.*
+---
 
-```python
-import time
+### 💻 System Message
+> `echo "Terima kasih sudah mampir! Silakan jelajahi repositori atau hubungi saya untuk kolaborasi. 🚀"`
 
-def ketik(teks, jeda=0.04):
-    for huruf in teks:
-        print(huruf, end="", flush=True)
-        time.sleep(jeda)
-    print()
+*Let's build something amazing together.*
 
-print("$ python thanks.py")
-ketik("Terima kasih sudah mampir! 🙌")
-ketik("Mari berkolaborasi, kirim pull request kapan saja 🚀")
-print("$ exit")
 ```
