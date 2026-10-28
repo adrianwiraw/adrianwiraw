@@ -32,7 +32,7 @@ Repositori ini difokuskan pada **Keamanan Siber** — berisi pengujian *tools ex
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
 </p>
 
-### 📱 Pengembangan Aplikasi Seluler (Mobile App)
+### 📱 Mobile App
 <p align="left">
   <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React Native" />
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
@@ -40,7 +40,7 @@ Repositori ini difokuskan pada **Keamanan Siber** — berisi pengujian *tools ex
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
 </p>
 
-### 🤖 AI & Machine Learning
+### 🤖 Artificial Intelligence
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI API" />
