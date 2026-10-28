@@ -69,7 +69,7 @@ Repositori ini difokuskan pada **Keamanan Siber** — berisi pengujian *tools ex
 
 ---
 
-## 📫 Kontak & Kolaborasi
+## Kontak & Kolaborasi
 
 <p align="left">
   <!-- LinkedIn -->
@@ -90,7 +90,7 @@ Repositori ini difokuskan pada **Keamanan Siber** — berisi pengujian *tools ex
 
 ---
 
-### 💻 System Message
-> `echo "Terima kasih sudah mampir! Silakan jelajahi repositori atau hubungi saya untuk kolaborasi. 🚀"`
+### System Message
+> `echo "Terima kasih sudah mampir! Silakan jelajahi repositori atau hubungi saya untuk kolaborasi."`
 
 *Let's build something amazing together.*
