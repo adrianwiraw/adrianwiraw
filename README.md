@@ -91,5 +91,16 @@ Repositori ini difokuskan pada **Keamanan Siber** — berisi pengujian *tools ex
 ---
 
 ### Terima kasih sudah mampir!
-
 *Jangan ragu untuk menjelajahi repositori saya atau menghubungi jika ingin berkolaborasi.*
+
+```python
+class Visitor:
+    def __init__(self, name="Kamu"):
+        self.name = name
+
+    def say_thanks(self):
+        print(f"Terima kasih sudah mampir, {self.name}! 🙌")
+        print("Sampai jumpa di commit berikutnya 🚀")
+
+Visitor().say_thanks()
+```
