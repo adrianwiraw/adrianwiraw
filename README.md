@@ -73,18 +73,18 @@ Repositori ini difokuskan pada **Keamanan Siber** — berisi pengujian *tools ex
 
 <p align="left">
   <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/adrian-wira" target="_blank" style="margin-right: 12px;">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" />
+  <a href="https://www.linkedin.com/in/adrian-wira" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="35" />
   </a>
-  
+  &nbsp;&nbsp;&nbsp;
   <!-- Instagram -->
-  <a href="https://www.instagram.com/yanbikdik" target="_blank" style="margin-right: 12px;">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="40" width="40" />
+  <a href="https://www.instagram.com/yanbikdik" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" height="35" />
   </a>
-
+  &nbsp;&nbsp;&nbsp;
   <!-- Email -->
   <a href="mailto:nadoyyelek@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Email" height="40" width="40" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="35" />
   </a>
 </p>
 
