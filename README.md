@@ -42,10 +42,13 @@ Repositori ini difokuskan pada **Keamanan Siber** — berisi pengujian *tools ex
 
 ### Artificial Intelligence
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI API" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama" />
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" />
+  <img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT" />
+  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini" />
+  <img src="https://img.shields.io/badge/LLM-1C1C1C?style=for-the-badge&logo=brain&logoColor=white" alt="LLM" />
+  <img src="https://img.shields.io/badge/RAG-4A5568?style=for-the-badge&logo=database&logoColor=white" alt="RAG" />
+  <img src="https://img.shields.io/badge/AI_Agents-6B21A8?style=for-the-badge&logo=robot&logoColor=white" alt="AI Agents" />
 </p>
 
 ### Cyber Security & Ethical Hacking
