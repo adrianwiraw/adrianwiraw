@@ -94,13 +94,16 @@ Repositori ini difokuskan pada **Keamanan Siber** — berisi pengujian *tools ex
 *Jangan ragu untuk menjelajahi repositori saya atau menghubungi jika ingin berkolaborasi.*
 
 ```python
-class Visitor:
-    def __init__(self, name="Kamu"):
-        self.name = name
+import time
 
-    def say_thanks(self):
-        print(f"Terima kasih sudah mampir, {self.name}! 🙌")
-        print("Sampai jumpa di commit berikutnya 🚀")
+def ketik(teks, jeda=0.04):
+    for huruf in teks:
+        print(huruf, end="", flush=True)
+        time.sleep(jeda)
+    print()
 
-Visitor().say_thanks()
+print("$ python thanks.py")
+ketik("Terima kasih sudah mampir! 🙌")
+ketik("Mari berkolaborasi, kirim pull request kapan saja 🚀")
+print("$ exit")
 ```
