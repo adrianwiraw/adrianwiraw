@@ -1,21 +1,21 @@
-# Hi there, I'm Adrian Wira Wicaksana 👋
+# Halo, aku Adrian Wira Wicaksana 👋
 
 ![Banner](./Banner.jpg)
 
-### **Software Engineer | Web & AI Developer**
+### **Software Engineer**
 
-Software Engineer yang berfokus pada pengembangan aplikasi web modern, integrasi AI, serta eksplorasi keamanan siber.
+Software Engineer yang berfokus pada pengembangan perangkat lunak, mulai dari aplikasi web modern, aplikasi seluler, tool keamanan siber, hingga integrasi kecerdasan buatan.
 
 ---
 
-## 🚀 Highlight Repository
+## 🚀 Repositori Unggulan
 
 ### 🎯 [yanrevenge](https://github.com/adrianwira/yanrevenge)
-Repository ini difokuskan pada **Cyber Security** — berisi pengujian tools exploit, simulasi vulnerability, dan analisis CVE terbaru yang dipraktikkan langsung melalui **lab lokal**.
+Repositori ini berfokus pada **Keamanan Siber** — berisi pengujian tool eksploitasi, simulasi kerentanan, dan analisis CVE terbaru yang dipraktikkan langsung melalui **lab lokal**.
 
 ---
 
-## 🛠️ Tech Stack & Technologies
+## 🛠️ Teknologi & Alat
 
 <p align="left">
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
@@ -45,7 +45,7 @@ Repository ini difokuskan pada **Cyber Security** — berisi pengujian tools exp
 
 ---
 
-## 📫 Connect & Collaborate
+## 📫 Kontak & Kolaborasi
 
 <p align="left">
   <a href="https://www.linkedin.com/in/adrian-wira" target="_blank">
@@ -58,6 +58,6 @@ Repository ini difokuskan pada **Cyber Security** — berisi pengujian tools exp
 
 ---
 
-### Thank you for stopping by! 🚀
+### Terima kasih sudah mampir! 🚀
 
-*Feel free to explore my repositories or reach out if you'd like to collaborate.*
+*Jangan ragu untuk menjelajahi repositori aku atau menghubungi jika ingin berkolaborasi.*
