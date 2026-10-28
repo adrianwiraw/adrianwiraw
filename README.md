@@ -69,22 +69,22 @@ Repositori ini difokuskan pada **Keamanan Siber** — berisi pengujian *tools ex
 
 ---
 
-## 📫 Kontak & Kolaborasi
+## Kontak & Kolaborasi
 
 <p align="left">
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/adrian-wira" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="35" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="38" height="38" />
   </a>
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <!-- Instagram -->
   <a href="https://www.instagram.com/yanbikdik" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" height="35" />
+    <img src="https://api.iconify.design/skill-icons:instagram.svg" alt="Instagram" width="38" height="38" />
   </a>
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <!-- Email -->
   <a href="mailto:nadoyyelek@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="35" />
+    <img src="https://api.iconify.design/logos:google-gmail.svg" alt="Email" width="38" height="38" />
   </a>
 </p>
 
