@@ -69,22 +69,22 @@ Repositori ini difokuskan pada **Keamanan Siber** — berisi pengujian *tools ex
 
 ---
 
-## Kontak & Kolaborasi
+## 📫 Kontak & Kolaborasi
 
 <p align="left">
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/adrian-wira" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="38" height="38" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="36" height="36" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <!-- Instagram -->
   <a href="https://www.instagram.com/yanbikdik" target="_blank">
-    <img src="https://api.iconify.design/skill-icons:instagram.svg" alt="Instagram" width="38" height="38" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" alt="Instagram" width="36" height="36" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <!-- Email -->
   <a href="mailto:nadoyyelek@gmail.com" target="_blank">
-    <img src="https://api.iconify.design/logos:google-gmail.svg" alt="Email" width="38" height="38" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Email" width="36" height="36" />
   </a>
 </p>
 
