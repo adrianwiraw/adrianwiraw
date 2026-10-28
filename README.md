@@ -72,12 +72,17 @@ Repositori ini difokuskan pada **Keamanan Siber** — berisi pengujian *tools ex
 ## 📫 Kontak & Kolaborasi
 
 <p align="left">
+  <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/adrian-wira" target="_blank" style="margin-right: 12px;">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" />
   </a>
+  
+  <!-- Instagram -->
   <a href="https://www.instagram.com/yanbikdik" target="_blank" style="margin-right: 12px;">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="40" width="40" />
   </a>
+
+  <!-- Email -->
   <a href="mailto:nadoyyelek@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Email" height="40" width="40" />
   </a>
