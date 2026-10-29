@@ -1,6 +1,6 @@
 # Halo, saya Adrian Wira Wicaksana 👋
 
-![Banner](./Banner.jpg)
+![Banner](./assets/Banner.jpg)
 
 ## **Software Engineer**
 
@@ -10,7 +10,7 @@ Software Engineer yang berfokus dalam mengembangkan dan membangun berbagai jenis
 
 ## Repositori Unggulan
 
-### [yanrevenge](https://github.com/adrianwira/yanrevenge)
+### [yanrevenge](https://github.com/adrianwiraw/yanrevenge.git)
 Repositori ini difokuskan pada **Keamanan Siber** — berisi pengujian *tools exploit*, simulasi *vulnerability*, dan analisis CVE terbaru yang dipraktikkan langsung melalui **lab lokal**.
 
 ---
