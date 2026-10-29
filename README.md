@@ -1,6 +1,6 @@
 # Halo, saya Adrian Wira Wicaksana 👋
 
-![Banner](./assets/Banner.jpg)
+![Banner](./Banner.jpg)
 
 ## **Software Engineer**
 
