@@ -8,10 +8,12 @@ Software Engineer yang berfokus dalam mengembangkan dan membangun berbagai jenis
 
 ---
 
-## Repositori Unggulan
+Repositori Unggulan
+yanrevenge
+Repositori ini difokuskan pada Keamanan Siber — berisi pengujian tools exploit, simulasi vulnerability, dan analisis CVE terbaru yang dipraktikkan langsung melalui lab lokal.
 
-### [yanrevenge](https://github.com/adrianwiraw/yanrevenge.git)
-Repositori ini difokuskan pada **Keamanan Siber** — berisi pengujian *tools exploit*, simulasi *vulnerability*, dan analisis CVE terbaru yang dipraktikkan langsung melalui **lab lokal**.
+yanpokemontcg
+Aplikasi full-stack marketplace dan manajemen koleksi kartu Pokémon berbasis MNG Stack (MongoDB, Next.js, Go/Gin) yang mengintegrasikan autentikasi multi-metode, transaksi koin in-app, serta payment gateway.
 
 ---
 
