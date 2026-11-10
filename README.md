@@ -10,13 +10,13 @@ Software Engineer yang berfokus dalam mengembangkan dan membangun berbagai jenis
 
 ## Repositori Unggulan
 
-### [yanrevenge](https://github.com/adrianwiraw/yanrevenge.git)
+#1 ### [yanrevenge](https://github.com/adrianwiraw/yanrevenge.git)
 Repositori ini difokuskan pada **Keamanan Siber** — berisi pengujian *tools exploit*, simulasi *vulnerability*, dan analisis CVE terbaru yang dipraktikkan langsung melalui **lab lokal**.
 
-### [yanpokemontcg](https://github.com/adrianwiraw/yanpokemontcg.git)
+#2 ### [yanpokemontcg](https://github.com/adrianwiraw/yanpokemontcg.git)
 **Aplikasi Full-Stack** marketplace dan manajemen koleksi kartu Pokémon berbasis MNG Stack (MongoDB, Next.js, Go/Gin) yang mengintegrasikan autentikasi multi-metode, transaksi koin in-app, serta payment gateway.
 
-### [bukutamu](https://github.com/adrianwiraw/bukutamu)
+#3 ### [bukutamu](https://github.com/adrianwiraw/bukutamu)
 **Aplikasi Buku Tamu Digital** yang dikembangkan khusus untuk kebutuhan **proyek magang di Dinas Kearsipan dan Perpustakaan (Dinas Arpus) Provinsi Jawa Tengah** — dirancang agar pencatatan tamu instansi menjadi lebih modern, interaktif, dan terstruktur.
 
 ---
