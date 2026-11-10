@@ -17,7 +17,7 @@ Repositori ini difokuskan pada **Keamanan Siber** — berisi pengujian *tools ex
 **Aplikasi Full-Stack** marketplace dan manajemen koleksi kartu Pokémon berbasis MNG Stack (MongoDB, Next.js, Go/Gin) yang mengintegrasikan autentikasi multi-metode, transaksi koin in-app, serta payment gateway.
 
 ### [bukutamu](https://github.com/adrianwiraw/bukutamu)
-**Aplikasi Buku Tamu digital** yang dikembangkan khusus untuk kebutuhan **proyek magang**, dirancang agar pencatatan tamu instansi atau perusahaan menjadi lebih modern, interaktif, dan terstruktur.
+**Aplikasi Buku Tamu Digital** yang dikembangkan khusus untuk kebutuhan **proyek magang di Dinas Kearsipan dan Perpustakaan (Dinas Arpus) Provinsi Jawa Tengah** — dirancang agar pencatatan tamu instansi menjadi lebih modern, interaktif, dan terstruktur.
 
 ---
 
