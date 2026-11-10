@@ -11,10 +11,13 @@ Software Engineer yang berfokus dalam mengembangkan dan membangun berbagai jenis
 ## Repositori Unggulan
 
 ### [yanrevenge](https://github.com/adrianwiraw/yanrevenge.git)
-Repositori ini difokuskan pada **Keamanan Siber** — berisi pengujian *tools exploit*, simulasi *vulnerability*, dan analisis CVE terbaru yang dipraktikkan langsung melalui **lab lokal**. tambahkan versi yanpokemontcg 
+Repositori ini difokuskan pada **Keamanan Siber** — berisi pengujian *tools exploit*, simulasi *vulnerability*, dan analisis CVE terbaru yang dipraktikkan langsung melalui **lab lokal**.
 
 ### [yanpokemontcg](https://github.com/adrianwiraw/yanpokemontcg.git)
 **Aplikasi Full-Stack** marketplace dan manajemen koleksi kartu Pokémon berbasis MNG Stack (MongoDB, Next.js, Go/Gin) yang mengintegrasikan autentikasi multi-metode, transaksi koin in-app, serta payment gateway.
+
+### [bukutamu](https://github.com/adrianwiraw/bukutamu)
+**Aplikasi Buku Tamu digital** yang dikembangkan khusus untuk kebutuhan **proyek magang**, dirancang agar pencatatan tamu instansi atau perusahaan menjadi lebih modern, interaktif, dan terstruktur.
 
 ---
 
@@ -62,7 +65,6 @@ Repositori ini difokuskan pada **Keamanan Siber** — berisi pengujian *tools ex
 
 ### Cyber Security & Ethical Hacking
 <p align="left">
-  
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/yanrevenge-Cyber_Security-000000?style=for-the-badge&logo=kalilinux&logoColor=red" alt="yanrevenge" />
   <img src="https://img.shields.io/badge/Kali_Linux-557C93?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux" />
