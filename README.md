@@ -63,7 +63,7 @@ Repositori ini difokuskan pada **Keamanan Siber** — berisi pengujian *tools ex
   <img src="https://img.shields.io/badge/AI_Agents-6B21A8?style=for-the-badge&logo=robot&logoColor=white" alt="AI Agents" />
 </p>
 
-### Cyber Security & Ethical Hacking
+### Cyber Security
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/yanrevenge-Cyber_Security-000000?style=for-the-badge&logo=kalilinux&logoColor=red" alt="yanrevenge" />
