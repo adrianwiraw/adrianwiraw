@@ -2,7 +2,7 @@
 
 ![Banner](./Banner.jpg)
 
-## **Software Engineer**
+## **Software Engineer Enthusiast**
 
 Software Engineer yang berfokus dalam mengembangkan dan membangun berbagai jenis perangkat lunak — mulai dari aplikasi web modern, aplikasi seluler (mobile), *tool* keamanan siber, hingga integrasi solusi Kecerdasan Buatan (AI).
 
