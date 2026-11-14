@@ -29,7 +29,7 @@ Repositori ini difokuskan pada **Keamanan Siber** — berisi pengujian *tools ex
 
 ## Statistik Bahasa Pemrograman
 
-![Bahasa pemrograman teratas](https://github-readme-stats.vercel.app/api/top-langs/?username=adrianwiraw&layout=compact)
+![Statistik bahasa pemrograman berdasarkan repo](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=adrianwiraw&theme=default)
 
 ---
 
