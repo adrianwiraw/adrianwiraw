@@ -19,6 +19,12 @@ Repositori ini difokuskan pada **Keamanan Siber** — berisi pengujian *tools ex
 ### #3. [bukutamu](https://github.com/adrianwiraw/bukutamu)
 **Aplikasi Buku Tamu Digital** yang dikembangkan khusus untuk kebutuhan **proyek magang di Dinas Kearsipan dan Perpustakaan (Dinas Arpus) Provinsi Jawa Tengah** — dirancang agar pencatatan tamu instansi menjadi lebih modern, interaktif, dan terstruktur.
 
+### #4. [siluak](https://github.com/adrianwiraw/siluak)
+**Aplikasi berbasis web** hasil proyek magang di **Dinas Arpus Jawa Tengah** untuk mendigitalisasi layanan administrasi umum dan manajemen kepegawaian, serta menyajikan laporan secara real-time.
+
+### #5. [netmon](https://github.com/adrianwiraw/netmon)
+**Aplikasi pemantauan jaringan** untuk proyek magang di **Dinas Arpus Jawa Tengah** — memantau router MikroTik, menampilkan perangkat serta data DHCP/ARP, dan mendeteksi indikasi konflik alamat IP. Syslog dan notifikasi Telegram membantu petugas memantau peristiwa jaringan.
+
 ---
 
 ## Tech Stack
